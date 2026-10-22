@@ -9,7 +9,7 @@ My background is in embedded systems and the Internet of Things.
 
 ### Electronic Organizer for Students
 
-![ElOrg](https://github.com/Kulhanekk/portfolio/main/bach/back_angle.jpg)
+![ElOrg](https://github.com/Kulhanekk/portfolio/blob/main/bach/back_angle.jpg)
 ![ElOrgBoard](https://github.com/Kulhanekk/portfolio/blob/main/bach/board_running.jpg)
  
 A pocket-sized, battery-powered e-paper device that helps students stay focused. It combines a Pomodoro-style timer for planning work and relaxation, a list of short-term goals, phone notification mirroring and an encrypted password manager. Data is sent to it over Bluetooth Low Energy. I built prototype with the processor and display integrated on a single custom PCB.
