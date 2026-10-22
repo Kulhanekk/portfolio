@@ -18,7 +18,7 @@ Firmware was written for the ESP32-C3 with ESP-IDF and FreeRTOS. Open-source e-p
 **Tech:** `ESP32-C3` · `ESP-IDF` · `FreeRTOS` · `Bluetooth LE` · `E-paper` · `PCB design` · `AES-256`
 
 
-## Personal Projects
+<!-- ## Personal Projects
 
 ### [Project name]
 
@@ -32,7 +32,7 @@ Firmware was written for the ESP32-C3 with ESP-IDF and FreeRTOS. Open-source e-p
 [One or two sentences.]
 
 **Tech:** `C++` · `[...]`
-[Source code](https://github.com/Kulhanekk/REPO/tree/main/personal/project-name)
+[Source code](https://github.com/Kulhanekk/REPO/tree/main/personal/project-name) -->
 
 
 ## School Projects
@@ -60,21 +60,6 @@ Finds the best way to distribute boxes of different weights across a warehouse w
  
 **Tech:** `C` · `Backtracking` · `Binary trees` · `Dynamic memory`
 [Source code](https://github.com/Kulhanekk/portfolio/tree/master/warehouse)
-
-
-### [Project name] · [course, e.g. BE5B...]
-
-[One or two sentences.]
-
-**Tech:** `C` · `[...]`
-[Source code](https://github.com/Kulhanekk/REPO/tree/main/school/project-name)
-
-### [Project name] · [course]
-
-[One or two sentences.]
-
-**Tech:** `C#` · `[...]`
-[Source code](https://github.com/Kulhanekk/REPO/tree/main/school/project-name)
 
 ## Skills
 
